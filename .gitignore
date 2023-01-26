@@ -1,0 +1,5 @@
+# virtual env
+virtual_env/
+
+#ipynb_checkpoints
+.ipynb_checkpoints/
